@@ -14,6 +14,6 @@ Confirm if you have rust installed with:
 `cargo --version`
 
 Then from the RustGuessingGame directory execute
-`cargo run`
+`cargo build` followed by `cargo run`
 
 You can now interact with the game on your terminal
